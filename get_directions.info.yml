@@ -1,0 +1,4 @@
+name: Get Directions block
+type: module
+description: Provides a block to get destinations to a pre-defined destination.
+core: 8.x
