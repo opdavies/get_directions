@@ -24,7 +24,7 @@ class DirectionsForm extends FormBase {
    */
   public function buildForm(array $form, FormStateInterface $form_state) {
     $form += [
-      '#action' => 'http://maps.google.com/maps',
+      '#action' => '//maps.google.com/maps',
       '#method' => 'get',
     ];
 
