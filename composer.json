@@ -1,0 +1,6 @@
+{
+  "name": "drupal/get_directions",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "require": {}
+}
